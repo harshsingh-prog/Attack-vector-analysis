@@ -62,9 +62,3 @@ The project is structured as follows:
     - **Metrics**: Accuracy, precision, recall, and F1-score are calculated.
 - **Data Visualization**:
     - **Distribution Plots**: Histograms, count plots, box plots, scatter plots, and correlation matrices are used to visualize the data.
-
-
-    git checkout -b feature-branch
-    ```
-3. Make your changes and commit them:
-    ```bash
